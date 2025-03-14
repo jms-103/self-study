@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 hi
+
+<<<<<<< HEAD
+안녕하세요!
+=======
+subin : hi
+>>>>>>> db5c6ad0024e03e406c8ffe78caedbf90e11f518
+=======
+hi
+>>>>>>> parent of 5155769 (Update second_hello_world.txt)
